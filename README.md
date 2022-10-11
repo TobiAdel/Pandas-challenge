@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-challenge
 Analyze the district-wide standardized test results.
 
 District Summary
